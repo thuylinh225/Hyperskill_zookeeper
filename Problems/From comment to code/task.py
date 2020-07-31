@@ -1,0 +1,1 @@
+# prints "ok" without quotes
